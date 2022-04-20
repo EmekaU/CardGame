@@ -1,6 +1,6 @@
 # [CardGame](https://github.com/EmekaU/CardGame)
 ---
-## Build Instructions for yardi-soccer-league program
+## Build Instructions for CardGame
 
 1. Go to the `CardGame/` directory via the command line
 2. Ensure maven is installed
